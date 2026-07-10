@@ -1,0 +1,10 @@
+id_venda,produto,categoria,preco_unitario,quantidade,data_venda,valor_total
+1,Notebook,Eletrônicos,3500.0,1,2025-01-05,3500.0
+2,Mouse,Acessórios,50.0,3,2025-01-06,150.0
+3,Teclado,Acessórios,120.0,2,2025-01-06,240.0
+4,Monitor,Eletrônicos,900.0,1,2025-01-07,900.0
+5,Notebook,Eletrônicos,3500.0,2,2025-01-08,7000.0
+6,Mouse,Acessórios,50.0,5,2025-01-08,250.0
+7,Cadeira,Móveis,450.0,1,2025-01-09,450.0
+8,Monitor,Eletrônicos,900.0,1,2025-01-10,900.0
+9,Teclado,Acessórios,120.0,4,2025-01-10,480.0
